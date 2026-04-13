@@ -36,7 +36,7 @@ src/test/java/
 1. Clone the repository
 ```bash
 git clone <repo-url>
-cd api-tests
+cd api-Tests
 ```
 
 2. Make sure Java and Maven are installed
