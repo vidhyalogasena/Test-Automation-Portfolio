@@ -1,4 +1,3 @@
-```markdown
 # API Test Automation - JSONPlaceholder Todos using Karate
 
 ## Overview
